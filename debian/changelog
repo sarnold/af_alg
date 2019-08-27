@@ -1,3 +1,22 @@
+af-alg (0.0.1d-3ppa~xenial1) xenial; urgency=medium
+
+  * add missing pkg-config build dependency
+
+ -- Stephen L Arnold <nerdboy@gentoo.org>  Mon, 26 Aug 2019 21:25:30 -0700
+
+af-alg (0.0.1d-2ppa~xenial1) xenial; urgency=medium
+
+  * fix libssl-dev minimum version string for xenial+
+
+ -- Stephen L Arnold <nerdboy@gentoo.org>  Mon, 26 Aug 2019 19:16:37 -0700
+
+af-alg (0.0.1d-1ppa~xenial1) xenial; urgency=medium
+
+  * minor upstream release, re-package for xenial
+  * no support for latest openssl API changes yet
+
+ -- Stephen L Arnold <nerdboy@gentoo.org>  Mon, 26 Aug 2019 16:28:19 -0700
+
 af-alg (0.0.1-2) trusty; urgency=medium
 
   * Initial release. (Closes: github issue #1)

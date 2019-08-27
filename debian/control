@@ -1,9 +1,9 @@
 Source: af-alg
-Maintainer: Steve Arnold <nerdboy@gentoo.org>
+Maintainer: Stephen L Arnold <nerdboy@gentoo.org>
 Section: utils
 Priority: optional
 Standards-Version: 3.9.7
-Build-Depends: debhelper (>= 9), libssl-dev (>= 1.0.1k-3+deb8u3)
+Build-Depends: debhelper (>= 9), libssl-dev (>= 1.0.2g-1ubuntu1), pkg-config (>= 0.26.1-0ubuntu1)
 
 Package: af-alg
 Architecture: any
